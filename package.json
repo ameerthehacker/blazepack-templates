@@ -1,6 +1,6 @@
 {
   "name": "blazepack-templates",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "Templates used by the blazepack bundler",
   "main": "index.js",
   "scripts": {
