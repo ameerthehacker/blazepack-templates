@@ -1,0 +1,23 @@
+{
+  "name": "blazepack-templates",
+  "version": "0.0.1",
+  "description": "Templates used by the blazepack bundler",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ameerthehacker/blazepack-templates.git"
+  },
+  "keywords": [
+    "blaxepack",
+    "templates"
+  ],
+  "author": "Ameer Jhan",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ameerthehacker/blazepack-templates/issues"
+  },
+  "homepage": "https://github.com/ameerthehacker/blazepack-templates#readme"
+}
